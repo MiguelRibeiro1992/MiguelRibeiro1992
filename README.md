@@ -50,17 +50,17 @@
 ---
 
 ## 📱 Socials:
-<p align="left">
-  <a href="https://www.facebook.com/pmiguel.ribeiro92" target="_blank" display: block; vertical-align: middle;>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
+<p align="left" style="display: flex; gap: 10px;">
+  <a href="https://www.facebook.com/pmiguel.ribeiro92" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40" style="display: block;"/>
   </a>
   
-  <a href="https://www.instagram.com/miguel.ribeiro06/" target="_blank" display: block; vertical-align: middle;>
-    <img src="https://cdn.brandfetch.io/ido5G85nya/theme/light/id8qc6z_TX.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Instagram" width="40" height="40"/>
+  <a href="https://www.instagram.com/miguel.ribeiro06/" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" style="display: block;"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/pedro-miguel-rodrigues-ribeiro/" target="_blank" display: block; vertical-align: middle;>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/pedro-miguel-rodrigues-ribeiro/" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="display: block;"/>
   </a>
 </p>
 
