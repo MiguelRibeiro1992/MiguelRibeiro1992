@@ -16,7 +16,6 @@
 - 🎮 Video games
 - 🏆 Sports/Esports
 - 🎬 Movies/Series
-- 📺 Anime
 - 💰📊 Economy/Politics
 
 ### 🌟 Goals
