@@ -1,7 +1,7 @@
 # 📚 About Me:
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Second Animated GIF" width="600" height="300"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" alt="Second Animated GIF" width="600" height="300"/>
 </p>
 
 ### 👋 I'm Miguel!
