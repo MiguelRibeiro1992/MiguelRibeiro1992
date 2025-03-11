@@ -1,6 +1,10 @@
 # 📚 About Me:
 
-### 👋 Hello, I'm Miguel!
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Second Animated GIF" width="600" height="300"/>
+</p>
+
+### 👋 I'm Miguel!
 - 💻 **Field:** Backend Programming
 
 ### 🧑‍💻 My job
@@ -66,9 +70,15 @@
   </span>
 </p>
 
+---
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Animated GIF" width="500"/>
 </p>
+
+---
+
+
 
 
 ---
